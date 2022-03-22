@@ -1,0 +1,22 @@
+{
+  "name": "yantis-tours",
+  "version": "1.0.0",
+  "description": "Landing page for Yantis Vacations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EYantis1212/yantis-tours.git"
+  },
+  "author": "Eric Yantis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EYantis1212/yantis-tours/issues"
+  },
+  "homepage": "https://github.com/EYantis1212/yantis-tours#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
