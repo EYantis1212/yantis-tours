@@ -24,7 +24,6 @@
     &:hover {
       outline: 1.5rem solid $color-primary;
       transform: scale(1.05) translateY(-0.5rem);
-      box-shadow: $shadow-darker;
       z-index: 20;
     }
   }
