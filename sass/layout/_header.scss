@@ -12,6 +12,11 @@
   clip-path: $clip-path-primary;
   position: relative;
 
+  @include respond(phone) {
+    -webkit-clip-path: $clip-path-shallow;
+    clip-path: $clip-path-shallow;
+  }
+
   &__logo-box {
     position: absolute;
     top: 4rem;
